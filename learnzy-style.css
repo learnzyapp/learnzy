@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  max-width: 800px;
+  margin: auto;
+  background-color: #fdfdfd;
+  color: #000; /* Black font color */
+  line-height: 1.6;
+}
+h1, h2 {
+  color: #000; /* Ensure headings are also black */
+}
+a {
+  color: #000; /* Links are also black */
+  text-decoration: underline;
+}
